@@ -1,0 +1,6 @@
+Welcome to the Gestionair Jukebox.
+Please, choose a song from our library:
+Press 1 for funky.
+Press 2 for call center setup.
+Press 3 for power down.
+Press 4 for the incredible la teuf song.
